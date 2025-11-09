@@ -1,4 +1,4 @@
 flask==2.3.2
 requests==2.31.0
-cloudscraper==1.3.64
+cloudscraper
 # thêm nếu cần: urllib3, charset-normalizer...
